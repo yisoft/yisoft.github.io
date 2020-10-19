@@ -1,0 +1,7 @@
+{
+  "name": "yi.team",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "docsify serve . -p 65088"
+  }
+}
