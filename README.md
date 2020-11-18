@@ -2,10 +2,11 @@
 
 * java/kotlin <!-- {docsify-ignore} -->
   - https://github.com/ymind/rsql-querydsl
-  - https://github.com/semantic-gitlog/semantic-commit
-  - https://github.com/semantic-gitlog/semantic-gitlog
-  - https://github.com/semantic-gitlog/maven-semantic-gitlog
-  - https://github.com/semantic-gitlog/gradle-semantic-gitlog
+  - [semantic-gitlog](https://semantic-gitlog.github.io/semantic-gitlog/)
+    - https://github.com/semantic-gitlog/semantic-commit
+    - https://github.com/semantic-gitlog/semantic-gitlog
+    - https://github.com/semantic-gitlog/maven-semantic-gitlog
+    - https://github.com/semantic-gitlog/gradle-semantic-gitlog
   
 * dotnet <!-- {docsify-ignore} -->
   - https://github.com/yisoft-aspnet/configuration
